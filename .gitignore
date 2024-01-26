@@ -1,0 +1,9 @@
+.DS_store
+config/
+**/копии/
+**/_pycache_/
+*.log
+!model.log
+.ipynb_checkpoints
+hotels_test.csv
+hotels.csv
