@@ -143,10 +143,7 @@
 
 ## Установка проекта
 
-```
 [git clone https://github.com/Wiruto/skillfactory_project_2.git](https://github.com/Wiruto/Skillfactory_project_3.EDA-FE.git)
-
-```
 
 ## Авторы
 
