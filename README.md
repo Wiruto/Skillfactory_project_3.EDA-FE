@@ -83,7 +83,7 @@
 
 **О структуре проекта:**
 
-* [Project-3.EDA+FE.Kaggly.ipynb](https://github.com/Wiruto/Skillfactory_project_2/blob/3901bf3492a2d94717cd0a2ebff4cda4017c6890/Project-2.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
+* [Project-3.EDA+FE.Kaggly.ipynb]([https://github.com/Wiruto/Skillfactory_project_2/blob/3901bf3492a2d94717cd0a2ebff4cda4017c6890/Project-2.ipynb](https://github.com/Wiruto/Skillfactory_project_3.EDA-FE/blob/53a90259b5c9f62ce47af8a86fca97acffadd3f3/Project-3.EDA%2BFE.Kaggly.ipynb)) - jupyter-ноутбук, содержащий основной код проекта.
 
 * hotels.csv - исходные данные для разведывательного анализа и обучения модели.
 
